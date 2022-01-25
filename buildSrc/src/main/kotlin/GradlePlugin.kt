@@ -1,0 +1,1 @@
+typealias Plugins = gradle.GradlePlugin
