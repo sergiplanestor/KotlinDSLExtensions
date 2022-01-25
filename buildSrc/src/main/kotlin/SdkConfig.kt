@@ -3,6 +3,6 @@ object SdkConfig {
     const val compile = 31
     const val target = compile
     const val buildTools = "30.0.2"
-    const val appId = "com.revolhope.compose_utils"
+    const val appId = "PLACE_YOUR_APP_ID"
     const val instrumentationRunner = "androidx.test.runner.AndroidJUnitRunner"
 }
